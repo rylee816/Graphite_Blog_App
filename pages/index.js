@@ -5,7 +5,7 @@ import { FeaturedPosts } from "../sections";
 
 export default function Home({ posts }) {
   return (
-    <div className="container mx-auto px-10 mb-8">
+    <div className="container mx-auto px-5 mb-8 w-full">
       <Head>
         <title>My Blog App</title>
         <link rel="icon" href="/favicon.ico" />
